@@ -45,4 +45,10 @@ nav{
     top: 200px;
     right: 500px;
     font-size: 70px;
+    color: black;
+}
+@media screen and (min-width: 480px) {
+    .quotes {
+       color: lightgreen;
+    }
 }
